@@ -1,7 +1,7 @@
 # Как запустить код на PHP, который написан в PhpStorm?
 
-У нас уже установлен OpenServer в папку, например, "C:\OsPanel".
-Есть два способа запуска PHP кода, написанного в Storm
+У нас уже установлен OpenServer в папку, например, "C:\OsPanel".  
+Есть два способа запуска PHP кода, написанного в PhpStorm
 1) Запуск программы интерактивно, как "командная строка"
 1) Запуск через ВЕБсервер
 
@@ -63,6 +63,6 @@ https://www.jetbrains.com/help/phpstorm/configuring-local-interpreter.html
            echo 'It works!';
            die;
         ```
-    1) Откркрываем в браузере следующий адрес "http://localhost/1.php"
+    1) Откркрываем в браузере следующий адрес "http://localhost/1.php"  
     Если видим строчку It works! - все работает корректно!  
     ![](./s2_5_it_works_apache.jpg?raw=true)
