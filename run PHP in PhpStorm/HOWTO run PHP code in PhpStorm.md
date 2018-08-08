@@ -64,5 +64,5 @@ https://www.jetbrains.com/help/phpstorm/configuring-local-interpreter.html
            die;
         ```
     1) Откркрываем в браузере следующий адрес "http://localhost/1.php"
-    Если видим строчку It works! - все работает корректно!
+    Если видим строчку It works! - все работает корректно!  
     ![](./s2_5_it_works_apache.jpg?raw=true)
